@@ -3,3 +3,5 @@
 Create a card with info and data about React.
 
 *Concepts*: Introduction to React first concepts (like components) and focus more on CSS styling.
+
+[Deployed site on Netlify](https://1-reactinfosite.netlify.app)
